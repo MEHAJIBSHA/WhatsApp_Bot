@@ -11,11 +11,7 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 <p align="center">
   <a href="https://github.com/MEHAJIBSHA/WhatsApp_Bot/fork"><img title="Release" src="https://img.shields.io/badge/Fork_And-Star_Repo%20-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/MEHAJIBSHA/WhatsApp_Bot/fork">
-    <img title="_FORK WHATSAPP BOT" src="https://img.shields.io/badge/📁_FORK_WHATSAPP_BOT-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
-  </a>
-</p>
+
 
 
 
